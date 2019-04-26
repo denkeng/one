@@ -84,3 +84,10 @@ if(pathname==='/detail'){
 }
 res.end('404')
 }).listen(3000)
+
+
+
+
+
+
+
